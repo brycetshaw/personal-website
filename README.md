@@ -1,23 +1,17 @@
-# Gatsby Starter: Mate
+# Personal Website for Bryce Shaw
+
+This is a portfolio site showcasing my hot-shot web development skills..
 
 [![Build Status](https://travis-ci.com/EmaSuriano/gatsby-starter-mate.svg?branch=master)](https://travis-ci.com/EmaSuriano/gatsby-starter-mate)
 [![eslint](https://img.shields.io/badge/eslint-enabled-green.svg)](https://eslint.org/)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 ![Dependencies status](https://david-dm.org/EmaSuriano/gatsby-starter-mate.svg)
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Ema-suriano/gatsby-starter-mate)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f532a32d-4fc1-441d-aa28-cdc5e2c2e79c/deploy-status)](https://app.netlify.com/sites/gatsby-starter-mate/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e74c4b1-f5e1-4ba8-bf47-04ed75ef2367/deploy-status)](https://app.netlify.com/sites/vigorous-euler-057b4a/deploys)
 
 ![Gatsby Starter Mate logo](./media/gatsby-starter-mate-logo.png)
 
-> An accessible and fast portfolio starter for Gatsby integrated with Contentful CMS.
-
-The target audience are Developers 💻 and Tech Writers ✍️.
-
-### [Check the Demo ✨](https://gatsby-starter-mate.netlify.com/)
-
-<a href="https://www.buymeacoffee.com/emasuriano" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## Why? 🤔
+> ## Why? 🤔
 
 In case you are looking for a quick setup portfolio or upgrade your current, you have to definitely try Mate!
 
@@ -50,16 +44,6 @@ At the same time, as this portfolio is written with Gatsby is extremely easy to 
 ### Lighthouse Score 💯
 
 ![Lighthouse Score](media/lighthouse-score.png)
-
-## How to start ▶️
-
-As this process needs more steps compared to other starters, I decided to made a tutorial video of how to set up your own instance of Mate. You can follow the video or jump directly to the written documentation.
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YviWsypJF9c">
-   <img src="https://media.giphy.com/media/LQp2DrNPPUPybUwVx9/giphy.gif" alt="Watch the tutorial"/>
-  </a>
-</p>
 
 If you never used Gatsby before, I highly recommend you to [Set up your development environment](https://www.gatsbyjs.org/tutorial/part-zero/)!
 

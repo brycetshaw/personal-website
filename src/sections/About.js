@@ -71,6 +71,7 @@ const About = () => (
                 <ReactMarkdown
                   source={aboutMe.childMarkdownRemark.rawMarkdownBody}
                   renderers={markdownRenderer}
+                  className={"blur(4px)"}
                 />
               </Fade>
             </Box>

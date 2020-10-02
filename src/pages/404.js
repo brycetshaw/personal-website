@@ -40,7 +40,7 @@ const NotFoundPage = () => (
         >
           404
         </Heading>
-        <Heading color="secondary" fontSize={['4rem', '5rem', '6rem']} as="h2">
+        <Heading color="#3A9BB6" fontSize={['4rem', '5rem', '6rem']} as="h2">
           There isn&apos;t anything here
         </Heading>
       </Box>

@@ -1,8 +1,8 @@
 # Personal Website for Bryce Shaw
 
-This is the repo for [my personal website](https://bryceshaw.com)... Check it out! 
+This is the repo for [my personal website](https://bryceshaw.com)... Check it out!
 
-It's still a work-in-progress but it's now a passable starting point :). So far, it's a **very** direct descendant from the excellent template [gatsby-starter-mate](https://github.com/EmaSuriano/gatsby-starter-mate), but it should start to diverge from there as I learn how frontend development works :). 
+It's still a work-in-progress but it's starting to look a bit more stylish. The site it a descendant from the excellent template [gatsby-starter-mate](https://github.com/EmaSuriano/gatsby-starter-mate).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8e74c4b1-f5e1-4ba8-bf47-04ed75ef2367/deploy-status)](https://app.netlify.com/sites/vigorous-euler-057b4a/deploys)
 [![eslint](https://img.shields.io/badge/eslint-enabled-green.svg)](https://eslint.org/)
@@ -22,7 +22,7 @@ It's still a work-in-progress but it's now a passable starting point :). So far,
 - SEO
 - Responsive design
 - Icons from [font-awesome](https://fontawesome.com/)
-- [Netlify](https://www.netlify.com) Deployment 
+- [Netlify](https://www.netlify.com) Deployment
 - Medium integration
 - Social sharing (Facebook, Google, LinkedIn)
 - Google Analytics integration

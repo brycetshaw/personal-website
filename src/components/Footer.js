@@ -65,13 +65,11 @@ const Footer = () => (
                 <Link href="https://www.contentful.com/" mr={1}>
                   Contentful
                 </Link>
-                <span> and </span>
-                <Link href="https://www.netlify.com/" mr={1}>
-                  Netlify
-                </Link>
-                <span role="img" aria-label="heart">
-                  ❤️
-                </span>
+                <span> and   </span>
+                <img
+                  src="https://api.netlify.com/api/v1/badges/8e74c4b1-f5e1-4ba8-bf47-04ed75ef2367/deploy-status"
+                  alt="Deploy status"
+                />
               </TextFooter>
             </Fade>
             <Flex>

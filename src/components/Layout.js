@@ -6,6 +6,7 @@ import config from 'react-reveal/globals';
 import preset from '@rebass/preset';
 import colors from '../../colors';
 import Helmet from './Helmet';
+import StyledBackgroundSection from './BackgroundSection';
 
 const GlobalStyle = createGlobalStyle`
   *,
@@ -52,13 +53,15 @@ const Layout = ({ children }) => {
 
   return (
     <main>
-      <ThemeProvider theme={theme}>
-        <GlobalStyle />
-        <ScrollingProvider>
-          <Helmet />
-          {children}
-        </ScrollingProvider>
-      </ThemeProvider>
+      <StyledBackgroundSection>
+        <ThemeProvider theme={theme}>
+          <GlobalStyle />
+          <ScrollingProvider>
+            <Helmet />
+            {children}
+          </ScrollingProvider>
+        </ThemeProvider>
+      </StyledBackgroundSection>
     </main>
   );
 };

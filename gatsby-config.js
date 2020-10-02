@@ -6,6 +6,8 @@ require('dotenv').config();
 const { ACCESS_TOKEN, SPACE_ID, ANALYTICS_ID, DETERMINISTIC } = process.env;
 
 const plugins = [
+  'gatsby-transformer-sharp',
+  'gatsby-plugin-sharp',
   'gatsby-plugin-react-helmet',
   {
     resolve: 'gatsby-plugin-manifest',

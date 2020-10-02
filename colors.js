@@ -4,11 +4,11 @@ module.exports = {
 
   text: '#333333',
 
-  primary: '#7c37ad',
-  primaryLight: '#ae66df',
-  primaryDark: '#4b007d',
+  primary: '#07689f',
+  primaryLight: '#ffc93c',
+  primaryDark: '#290001',
 
-  secondary: '#ff4081',
-  secondaryLight: '#ff79b0',
+  secondary: '#40a8c4',
+  secondaryLight: '#a2d5f2',
   secondaryDark: '#c60055',
 };
